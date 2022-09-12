@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 4524317531697499708}
   - component: {fileID: 3233783614405114031}
   - component: {fileID: 3207698791585606551}
+  - component: {fileID: 7503185532739376578}
   m_Layer: 0
   m_Name: Ball 2
   m_TagString: Untagged
@@ -152,3 +153,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dd56477307ae34a53ab47afc77a08392, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!65 &7503185532739376578
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4524317531697499709}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.53924274, y: 0.595498, z: 0.5314977}
+  m_Center: {x: 1.3196286, y: -0.0025443435, z: 0.0024603903}
